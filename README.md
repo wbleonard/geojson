@@ -1,2 +1,4 @@
 # geojson
-GEOJSON Playground
+GeoJSON Playground
+
+[GeoJSON Editor|https://geoman.io/geojson-editor]
